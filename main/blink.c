@@ -20,6 +20,8 @@
 
 #define BLINK_GPIO 2
 
+
+
 void app_main(void)
 {
     /* Configure the IOMUX register for pad BLINK_GPIO (some pads are
