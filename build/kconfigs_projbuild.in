@@ -1,5 +1,0 @@
-source "C:/eps/esp-idf/components/app_update/Kconfig.projbuild"
-source "C:/eps/esp-idf/components/bootloader/Kconfig.projbuild"
-source "C:/eps/esp-idf/components/esptool_py/Kconfig.projbuild"
-source "C:/eps/esp-idf/components/partition_table/Kconfig.projbuild"
-source "C:/esp_projects/blink/test1/main/Kconfig.projbuild"
